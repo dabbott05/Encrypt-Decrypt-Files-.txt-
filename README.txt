@@ -1,6 +1,9 @@
 In this project there are 2 programs, one to encrypt a .txt file, and one
 to decrypt the new encrypted .txt file.
 
+You must have the crytography library installed.
+if you do not type in the terminal, pip3 install crytography
+
 It will create 3 new .txt files.
 
 keyFile.txt - this will be created to store your created key. using this key
